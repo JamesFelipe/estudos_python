@@ -1,0 +1,24 @@
+POO - Programação orientada a objetos
+
+- É um paradigma de programação(Forma de programação)
+
+- 4 Pilares da POO 
+    - Abstração(Representação de coisas do mundo real na programação)
+    - Encapsulamento("Esconder" do usuário final algo complexo da programação, "O que acontece por baixo dos panos")
+    - Herança(Capacidade de uma classe herdar caracteristicas de outra clase)
+    - Polimorfismo(Diferentes classes que herdam de uma classe e tem comportamentos Diferentes, fazem coisas Diferentes depedendo da situação)
+
+- classes
+    - Possuem atributos e métodos(Funções criadas dentro das classes)
+    - Uma classe pode ter zero ou vários elementos instanciados a partir dela
+    - o padrão para a criação de classes é o camelCase
+
+- objetos
+    - São instanciados a partir de uma classe
+    - Podemos ter vários objetos de uma mesma classe
+    - Um objeto pertence sempre a uma classe
+
+
+- métodos
+    - São básicamente funções dentro da classe
+    - Método construtor(__init__): Método que sempre é executado quando um objeto da classe é instanciando

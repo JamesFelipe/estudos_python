@@ -1,0 +1,18 @@
+- Ambientes virtuais
+    - Serve para criar coisas especificas de um determinado projeto
+---------------------------------------------------------------------------------------------------------------------
+python -m venv nome_do_ambiente -> serve para criar um ambiente virtual python
+uso o comando "cd" até chegar na pasta scripts
+
+activate -> serve para ativar meu ambiente virtual
+
+# Caso tenha dado erro no terminal
+- Abra o terminal como admistrador
+1- Get-ExecutionPolicy -> Provavelmente vai retornar Restricted
+2- Set-ExecutionPolicy Unrestricted -> para liberar os comandos
+
+Obs.: no windos só vai funcionar pelo cmd
+---------------------------------------------------------------------------------------------------------------------
+pip freeze > requirements.text -> serve para criar um novo arquivo com as biblitocas que tenho instaladas
+
+pip install -r .\requirements.txt -> serve para instalar várias bibliotecas de uma única vez
